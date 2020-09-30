@@ -1,5 +1,5 @@
 # to generate the noise
-noise
+noise==1.2.2
 
 # for storing the noise, and all other arrays
-numpy
+numpy==1.19.0
